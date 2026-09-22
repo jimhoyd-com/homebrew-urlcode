@@ -5,8 +5,8 @@
 class Urlcode < Formula
   desc "Portable runtime for programmable URL behavior"
   homepage "https://github.com/jimhoyd-com/urlcode"
-  url "https://registry.npmjs.org/@jimhoyd/urlcode/-/urlcode-0.5.0.tgz"
-  sha256 "c1a7bb6f2c477991de28d422e422dfa3ecfeea7f593d48d2d6964f51040f891f"
+  url "https://registry.npmjs.org/@jimhoyd/urlcode/-/urlcode-0.5.5.tgz"
+  sha256 "e60174f532d09eda7945ec6cffdabec6f71d79d53853928df9b7aa67e733ed3b"
   license "Apache-2.0"
 
   depends_on "node"
